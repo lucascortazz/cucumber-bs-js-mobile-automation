@@ -1,0 +1,13 @@
+
+{
+  "name": "cucumber-bs-js-example",
+  "version": "1.0.0",
+  "description": "Run Cucumber JS tests on BrowserStack",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^9.0.0",
+    "selenium-webdriver": "^4.0.0"
+  }
+}
