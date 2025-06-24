@@ -2,10 +2,10 @@
 {
   "server": "https://lucascortazzo_0PnpTu:ws3h1V2aD5Ann4yuD5xR@hub-cloud.browserstack.com/wd/hub",
   "capabilities": {
-    "browserName": "chrome",
+    "browserName": "safari",
     "browser_version": "latest",
-    "os": "Windows",
-    "os_version": "10",
+    "os": "iOS",
+    "os_version": "18.5",
     "name": "Cucumber JS Test on BrowserStack",
     "browserstack.local": "false"
   }
